@@ -1,6 +1,6 @@
 Data Science Blog: Airbnb Analysis of Boston and Seattle
 
-Airbnb has transformed the way people travel, offering unique and personalized accommodations across the globe. As part of a data science project, I set out to compare two popular travel destinations—Boston and Seattle—to understand how various factors influence accommodation prices and availability. By analyzing datasets from Kaggle, this project provides insights into the dynamics of Airbnb listings in these two cities.
+Airbnb has transformed how people travel, offering unique and personalized accommodations globally. As part of a data science project, I compared two popular travel destinations—Boston and Seattle—to understand how various factors influence accommodation prices and availability. By analyzing datasets from Kaggle, this project provides insights into the dynamics of Airbnb listings in these two cities.
 
 Key Questions Addressed
 
@@ -34,7 +34,7 @@ The first step was to prepare the data for analysis. I converted the price data 
 
 After processing the data, I calculated the average price per month for both Boston and Seattle and visualized the results in a bar chart.
 
-<img src="images/dinosaur.jpg" alt="Dinosaur" />
+<img src="images/fig1.jpg" alt="Price Comparision" />
 
 Insights:
 
