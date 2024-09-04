@@ -34,7 +34,7 @@ The first step was to prepare the data for analysis. I converted the price data 
 
 After processing the data, I calculated the average price per month for both Boston and Seattle and visualized the results in a bar chart.
 
-<img src="images/fig1.jpg" alt="Price Comparision" />
+<img src="images/fig1.png" alt="Price Comparision" />
 
 Insights:
 
