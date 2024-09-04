@@ -25,14 +25,14 @@ Reviews: Detailed feedback from guests, including unique reviewer IDs and commen
 The analysis primarily relied on two files from each city:
 
 Calendar.csv: For daily pricing and availability.
-<a href="https://github.com/sknevhal/data-science-blog_udacity/main/dataset/boston/calender.csv" download> boston/calendar.csv </a>
+<a href="data-science-blog_udacity/dataset/boston/calender.csv" download> boston/calendar.csv </a>
 
-<a href="https://github.com/sknevhal/data-science-blog_udacity/main/dataset/seattle/calender.csv" download> seattle/calendar.csv </a>
+<a href="data-science-blog_udacity/dataset/seattle/calender.csv" download> seattle/calendar.csv </a>
 
 Reviews.csv: For insights into property popularity based on review counts.
-<a href="https://github.com/sknevhal/data-science-blog_udacity/main/dataset/boston/reviews.csv" download> boston/reviews.csv </a>
+<a href="data-science-blog_udacity/dataset/boston/reviews.csv" download> boston/reviews.csv </a>
 
-<a href="https://github.com/sknevhal/data-science-blog_udacity/main/dataset/seattle/reviews.csv" download> seattle/reviews.csv </a>
+<a href="data-science-blog_udacity/dataset/seattle/reviews.csv" download> seattle/reviews.csv </a>
 
 Data Preparation and Analysis
 
