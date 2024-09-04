@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <h1>Data Science Blog: Airbnb Analysis of Boston and Seattle</h1>
 
@@ -27,10 +26,10 @@ Reviews: Detailed feedback from guests, including unique reviewer IDs and commen
 The analysis primarily relied on two files from each city:
 
 Calendar.csv: For daily pricing and availability.
-<a href="https://www.kaggle.com/airbnb/boston" download> boston </a>
+<a href="https://www.kaggle.com/airbnb/boston" download> boston. </a>
 
 Reviews.csv: For insights into property popularity based on review counts.
-<a href="https://www.kaggle.com/airbnb/seattle" download> seattle </a>
+<a href="https://www.kaggle.com/airbnb/seattle" download> seattle. </a>
 
 Data Preparation and Analysis
 
