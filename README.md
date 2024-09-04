@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <h1> Data Science Blog: Airbnb Analysis of Boston and Seattle </h1>
