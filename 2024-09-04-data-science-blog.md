@@ -44,7 +44,9 @@ Review Count Analysis
 
 Next, I focused on identifying the properties with the highest number of reviews in each city. I filtered the data to highlight listings with review counts exceeding a certain threshold and visualized the top reviewers in bar charts.
 
+<img src="images/fig2.png" alt="Boston Top Reviewers" />
 
+<img src="images/fig3.png" alt="Settle Top Reviewers" />
 
 Insights:
 
@@ -52,6 +54,8 @@ The properties with the most reviews tend to be the most popular among guests. T
 Availability Trends
 
 Finally, I examined the availability trends across the year. By focusing on entries where availability was marked as true, I compared the overall availability in both cities.
+
+<img src="images/fig4.png" alt="Availability Comparision" />
 
 Insights:
 
