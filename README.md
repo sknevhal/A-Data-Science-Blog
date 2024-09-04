@@ -43,7 +43,7 @@ This analysis highlights the importance of timing and location in travel plannin
 
 ## Getting Started
 
-To explore the analysis and replicate the results, you can access the datasets from Kaggle and follow the steps outlined in the `blog_post.md` file provided in this repository.
+To explore the analysis and replicate the results, you can access the datasets from Kaggle and follow the steps outlined in the `Data_science_blog_skn.ipynb` and `2024-09-04-data-science-blog.md` files provided in this repository.
 
 ## License
 
