@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title> Data Science Blog: Airbnb Analysis of Boston and Seattle </title>
+<h1> Data Science Blog: Airbnb Analysis of Boston and Seattle </h1>
 </head>
 
 <body>
