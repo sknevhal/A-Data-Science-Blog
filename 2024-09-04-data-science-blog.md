@@ -26,10 +26,12 @@ The analysis primarily relied on two files from each city:
 
 Calendar.csv: For daily pricing and availability.
 <a href="dataset/boston/calender.csv" download> boston/calendar.csv </a>
+
 <a href="dataset/seattle/calender.csv" download> seattle/calendar.csv </a>
 
 Reviews.csv: For insights into property popularity based on review counts.
 <a href="dataset/boston/reviews.csv" download> boston/reviews.csv </a>
+
 <a href="dataset/seattle/reviews.csv" download> seattle/reviews.csv </a>
 
 Data Preparation and Analysis
